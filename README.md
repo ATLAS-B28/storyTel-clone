@@ -1,4 +1,4 @@
 # StroyTel - Clone
- This is learned from Brad Traversy's Node.js tutorial of a Story Book application
- The stack is MEN + handlebars, google Oauth and passport.js
+This was learned and built upon Brad Traversy's Node.js tutorial of the Story Book application
+The stack is MEN + handlebars, Google Oauth & Passport.js
 Link to original repo ->https://github.com/bradtraversy/storybooks
